@@ -1,0 +1,6 @@
+{
+    "git.enabled": true,
+    "git.terminalAuthentication": false,
+    "git.useForcePushIfIncludes": false,
+    "github.gitAuthentication": true
+}
